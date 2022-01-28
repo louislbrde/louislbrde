@@ -3,9 +3,12 @@ I develop some things in Python !
 
 ### Social
 
-<a href="https://discord.com/users/355404180426457092/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" width="22px">
-</a>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" width="22px"> : oui(fi)#0879
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/html5.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/css3.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/python.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/java.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/javascript.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/django.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/qt.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/git.svg" width="22px">  
+
 
 
 
