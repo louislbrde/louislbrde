@@ -1,13 +1,8 @@
-### Hello, I'm Louis !
-I develop some things in Python !
+![Hello there!](https://i.gifer.com/origin/1b/1bceb26d91bbe929e5e2f3c6577c6b49.gif "Get your mouse out of there!")
 
-### Social
+Welcome back! 
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" width="22px"> : oui(fi)#0879
-
-### Languages and tools
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/html5.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/css3.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/python.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/java.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/javascript.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/django.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/qt.svg" width="22px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/git.svg" width="22px">  
+Don't bother reading everything, I'm just developing a few tools here and there. You'll find everything I do just below this long useless text. If there's nothing, it's because I'm updating my repositories. **PATIENCE !**
 
 
 
